@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12898bf1-1c63-4ee2-8ece-435caf1ead87" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ftfl_reg_form/add.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ftfl_reg_form/delete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ftfl_reg_form/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ftfl_reg_form/show.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Layouts/website_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Layouts/website_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Layouts/website_3.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="classExercises.iws" />
@@ -31,48 +30,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="add.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ftfl_reg_form/add.php">
+      <file leaf-file-name="website_1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Layouts/website_1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.583333" vertical-offset="418" max-vertical-offset="810">
-              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding>
-                <marker date="1419447326099" expanded="true" signature="95:1560" placeholder="INSERT INTO ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="delete.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ftfl_reg_form/delete.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <marker date="1419446918131" expanded="true" signature="118:175" placeholder="DELETE FROM ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ftfl_reg_form/form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.9259257" vertical-offset="0" max-vertical-offset="2085">
-              <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+            <state vertical-scroll-proportion="-15.125" vertical-offset="1677" max-vertical-offset="2130">
+              <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ftfl_reg_form/show.php">
+      <file leaf-file-name="website_2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Layouts/website_2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.375" vertical-offset="855" max-vertical-offset="1290">
-              <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-              <folding>
-                <marker date="1419446642979" expanded="true" signature="98:119" placeholder="select * fro..profile..." />
-              </folding>
+            <state vertical-scroll-proportion="-13.25" vertical-offset="4047" max-vertical-offset="4455">
+              <caret line="291" column="0" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="website_3.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Layouts/website_3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="4.3129773" vertical-offset="0" max-vertical-offset="1785">
+              <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,6 +84,9 @@
         <option value="$PROJECT_DIR$/ftfl_reg_form/delete.php" />
         <option value="$PROJECT_DIR$/ftfl_reg_form/add.php" />
         <option value="$PROJECT_DIR$/ftfl_reg_form/form.html" />
+        <option value="$PROJECT_DIR$/Layouts/website_1.html" />
+        <option value="$PROJECT_DIR$/Layouts/website_2.html" />
+        <option value="$PROJECT_DIR$/Layouts/website_3.html" />
       </list>
     </option>
   </component>
@@ -137,6 +123,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -165,13 +152,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ftfl_reg_form" />
+              <option name="myItemId" value="Layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,7 +208,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24596465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -232,7 +218,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32544377" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3239645" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -268,27 +254,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array_function/array_intersect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="195">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array_function/array_key_exists.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
@@ -566,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5555556" vertical-offset="0" max-vertical-offset="405">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -574,9 +538,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7777778" vertical-offset="15" max-vertical-offset="420">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <marker date="1419355530890" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -584,9 +546,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7777778" vertical-offset="285" max-vertical-offset="690">
           <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding>
-            <marker date="1419352923582" expanded="true" signature="-1:-1" placeholder="select * fro..users..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -594,9 +554,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7037037" vertical-offset="0" max-vertical-offset="405">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <marker date="1419351363994" expanded="true" signature="-1:-1" placeholder="select * fro..users..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -604,46 +562,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5555556" vertical-offset="0" max-vertical-offset="405">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <marker date="1419355530890" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ftfl_reg_form/add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.583333" vertical-offset="418" max-vertical-offset="810">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding>
-            <marker date="1419447326099" expanded="true" signature="95:1560" placeholder="INSERT INTO ..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ftfl_reg_form/delete.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <marker date="1419446918131" expanded="true" signature="118:175" placeholder="DELETE FROM ..." />
+            <marker date="1420856968460" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ftfl_reg_form/show.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.375" vertical-offset="855" max-vertical-offset="1290">
+        <state vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="1290">
           <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding>
-            <marker date="1419446642979" expanded="true" signature="98:119" placeholder="select * fro..profile..." />
+            <marker date="1420856968460" expanded="true" signature="-1:-1" placeholder="select * fro..profile..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ftfl_reg_form/form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.9259257" vertical-offset="0" max-vertical-offset="2085">
+        <state vertical-scroll-proportion="1.317734" vertical-offset="1460" max-vertical-offset="2085">
           <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftfl_reg_form/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77099234" vertical-offset="417" max-vertical-offset="810">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <marker date="1420856968460" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layouts/website_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.125" vertical-offset="1677" max-vertical-offset="2130">
+          <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layouts/website_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.25" vertical-offset="4047" max-vertical-offset="4455">
+          <caret line="291" column="0" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layouts/website_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.3129773" vertical-offset="0" max-vertical-offset="1785">
+          <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
           <folding />
         </state>
       </provider>
