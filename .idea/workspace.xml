@@ -2,9 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12898bf1-1c63-4ee2-8ece-435caf1ead87" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Layouts/website_1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Layouts/website_2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Layouts/website_3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Layouts/dist/new.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Layouts/website_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Layouts/website_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Layouts/website_3.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/1111.php" afterPath="$PROJECT_DIR$/array_function/1111.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutme.html" afterPath="$PROJECT_DIR$/aboutme.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crud/add.php" afterPath="$PROJECT_DIR$/crud/add.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ftfl_reg_form/add.php" afterPath="$PROJECT_DIR$/ftfl_reg_form/add.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_change_key_case.php" afterPath="$PROJECT_DIR$/array_function/array_change_key_case.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_chunk.php" afterPath="$PROJECT_DIR$/array_function/array_chunk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_column.php" afterPath="$PROJECT_DIR$/array_function/array_column.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_combine.php" afterPath="$PROJECT_DIR$/array_function/array_combine.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_count_values.php" afterPath="$PROJECT_DIR$/array_function/array_count_values.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_diff.php" afterPath="$PROJECT_DIR$/array_function/array_diff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_diff_assoc.php" afterPath="$PROJECT_DIR$/array_function/array_diff_assoc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_diff_key.php" afterPath="$PROJECT_DIR$/array_function/array_diff_key.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_diff_uassoc.php" afterPath="$PROJECT_DIR$/array_function/array_diff_uassoc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_diff_ukey.php" afterPath="$PROJECT_DIR$/array_function/array_diff_ukey.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_fill.php" afterPath="$PROJECT_DIR$/array_function/array_fill.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_fill_keys.php" afterPath="$PROJECT_DIR$/array_function/array_fill_keys.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_filter.php" afterPath="$PROJECT_DIR$/array_function/array_filter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_flip.php" afterPath="$PROJECT_DIR$/array_function/array_flip.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_intersect.php" afterPath="$PROJECT_DIR$/array_function/array_intersect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_intersect_assoc.php" afterPath="$PROJECT_DIR$/array_function/array_intersect_assoc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_intersect_key.php" afterPath="$PROJECT_DIR$/array_function/array_intersect_key.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_intersect_uassoc.php" afterPath="$PROJECT_DIR$/array_function/array_intersect_uassoc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_intersect_ukey.php" afterPath="$PROJECT_DIR$/array_function/array_intersect_ukey.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_key_exists.php" afterPath="$PROJECT_DIR$/array_function/array_key_exists.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_keys.php" afterPath="$PROJECT_DIR$/array_function/array_keys.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_map.php" afterPath="$PROJECT_DIR$/array_function/array_map.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/array_merge_recursive.php" afterPath="$PROJECT_DIR$/array_function/array_merge_recursive.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/classExercises.iml" afterPath="$PROJECT_DIR$/.idea/classExercises.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/class_work_valuechange.php" afterPath="$PROJECT_DIR$/array_function/class_work_valuechange.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crud/create.html" afterPath="$PROJECT_DIR$/crud/create.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function.php" afterPath="$PROJECT_DIR$/array_function/create_function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function10.php" afterPath="$PROJECT_DIR$/array_function/create_function10.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function11.php" afterPath="$PROJECT_DIR$/array_function/create_function11.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function12.php" afterPath="$PROJECT_DIR$/array_function/create_function12.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function13.php" afterPath="$PROJECT_DIR$/array_function/create_function13.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function14.php" afterPath="$PROJECT_DIR$/array_function/create_function14.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function15.php" afterPath="$PROJECT_DIR$/array_function/create_function15.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function16.php" afterPath="$PROJECT_DIR$/array_function/create_function16.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function17.php" afterPath="$PROJECT_DIR$/array_function/create_function17.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function18.php" afterPath="$PROJECT_DIR$/array_function/create_function18.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function19.php" afterPath="$PROJECT_DIR$/array_function/create_function19.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function2.php" afterPath="$PROJECT_DIR$/array_function/create_function2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function20.php" afterPath="$PROJECT_DIR$/array_function/create_function20.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function21.php" afterPath="$PROJECT_DIR$/array_function/create_function21.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function22.php" afterPath="$PROJECT_DIR$/array_function/create_function22.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function23.php" afterPath="$PROJECT_DIR$/array_function/create_function23.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function24.php" afterPath="$PROJECT_DIR$/array_function/create_function24.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function25.php" afterPath="$PROJECT_DIR$/array_function/create_function25.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function26.php" afterPath="$PROJECT_DIR$/array_function/create_function26.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function27.php" afterPath="$PROJECT_DIR$/array_function/create_function27.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function28.php" afterPath="$PROJECT_DIR$/array_function/create_function28.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function29.php" afterPath="$PROJECT_DIR$/array_function/create_function29.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function3.php" afterPath="$PROJECT_DIR$/array_function/create_function3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function30.php" afterPath="$PROJECT_DIR$/array_function/create_function30.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function31.php" afterPath="$PROJECT_DIR$/array_function/create_function31.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function32.php" afterPath="$PROJECT_DIR$/array_function/create_function32.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function33.php" afterPath="$PROJECT_DIR$/array_function/create_function33.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function34.php" afterPath="$PROJECT_DIR$/array_function/create_function34.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function35.php" afterPath="$PROJECT_DIR$/array_function/create_function35.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function36.php" afterPath="$PROJECT_DIR$/array_function/create_function36.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function37.php" afterPath="$PROJECT_DIR$/array_function/create_function37.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function4.php" afterPath="$PROJECT_DIR$/array_function/create_function4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function5.php" afterPath="$PROJECT_DIR$/array_function/create_function5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function6.php" afterPath="$PROJECT_DIR$/array_function/create_function6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function7.php" afterPath="$PROJECT_DIR$/array_function/create_function7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function8.php" afterPath="$PROJECT_DIR$/array_function/create_function8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array_function/create_function9.php" afterPath="$PROJECT_DIR$/array_function/create_function9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crud/delete.php" afterPath="$PROJECT_DIR$/crud/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ftfl_reg_form/delete.php" afterPath="$PROJECT_DIR$/ftfl_reg_form/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ftfl_reg_form/form.html" afterPath="$PROJECT_DIR$/ftfl_reg_form/form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VariableHandlingFunctions/is_bool.php" afterPath="$PROJECT_DIR$/VariableHandlingFunctions/is_bool.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crud/list.php" afterPath="$PROJECT_DIR$/crud/list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ftfl_reg_form/show.php" afterPath="$PROJECT_DIR$/ftfl_reg_form/show.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crud/view.php" afterPath="$PROJECT_DIR$/crud/view.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="classExercises.iws" />
@@ -30,31 +114,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="website_1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Layouts/website_1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.125" vertical-offset="1677" max-vertical-offset="2130">
-              <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="website_2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Layouts/website_2.html">
+        <entry file="file://$PROJECT_DIR$/Layouts/dist/website_2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.25" vertical-offset="4047" max-vertical-offset="4455">
-              <caret line="291" column="0" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+            <state vertical-scroll-proportion="-54.875" vertical-offset="2673" max-vertical-offset="4485">
+              <caret line="266" column="2" selection-start-line="266" selection-start-column="2" selection-end-line="266" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="website_3.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Layouts/website_3.html">
+        <entry file="file://$PROJECT_DIR$/Layouts/dist/website_3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.3129773" vertical-offset="0" max-vertical-offset="1785">
-              <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.5026455" vertical-offset="0" max-vertical-offset="1845">
+              <caret line="19" column="18" selection-start-line="16" selection-start-column="12" selection-end-line="19" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Layouts/dist/new.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="900">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -71,31 +155,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/array_function/array_merge_recursive.php" />
-        <option value="$PROJECT_DIR$/File_handling/creating_textfile.php" />
-        <option value="$PROJECT_DIR$/crud/view.php" />
-        <option value="$PROJECT_DIR$/crud/list.php" />
-        <option value="$PROJECT_DIR$/crud/create.html" />
-        <option value="$PROJECT_DIR$/crud/add.php" />
-        <option value="$PROJECT_DIR$/crud/delete.php" />
-        <option value="$PROJECT_DIR$/ftfl_reg_form/show.php" />
-        <option value="$PROJECT_DIR$/ftfl_reg_form/delete.php" />
-        <option value="$PROJECT_DIR$/ftfl_reg_form/add.php" />
-        <option value="$PROJECT_DIR$/ftfl_reg_form/form.html" />
-        <option value="$PROJECT_DIR$/Layouts/website_1.html" />
-        <option value="$PROJECT_DIR$/Layouts/website_2.html" />
-        <option value="$PROJECT_DIR$/Layouts/website_3.html" />
+        <option value="$PROJECT_DIR$/Layouts/dist/website_2.html" />
+        <option value="$PROJECT_DIR$/Layouts/dist/website_3.html" />
+        <option value="$PROJECT_DIR$/Layouts/dist/new.html" />
       </list>
     </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1301" />
-    <option name="height" value="772" />
+    <option name="y" value="24" />
+    <option name="width" value="1215" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -155,6 +231,10 @@
               <option name="myItemId" value="Layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -166,12 +246,6 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
@@ -179,15 +253,21 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
       <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
-      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <pass-parent-envs>true</pass-parent-envs>
       <envs />
       <method />
     </configuration>
@@ -207,28 +287,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="65" y="24" width="1215" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24596465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32296136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3239645" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2452675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -254,13 +334,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/array_function/create_function.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
@@ -538,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7777778" vertical-offset="15" max-vertical-offset="420">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -546,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7777778" vertical-offset="285" max-vertical-offset="690">
           <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -554,7 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7037037" vertical-offset="0" max-vertical-offset="405">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -562,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5555556" vertical-offset="0" max-vertical-offset="405">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -570,9 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <marker date="1420856968460" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -580,9 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="1290">
           <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-          <folding>
-            <marker date="1420856968460" expanded="true" signature="-1:-1" placeholder="select * fro..profile..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -590,7 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.317734" vertical-offset="1460" max-vertical-offset="2085">
           <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,36 +660,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.77099234" vertical-offset="417" max-vertical-offset="810">
           <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding>
-            <marker date="1420856968460" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Layouts/website_1.html">
+    <entry file="file://$PROJECT_DIR$/Layouts/dist/website_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.125" vertical-offset="1677" max-vertical-offset="2130">
-          <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2130">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Layouts/website_2.html">
+    <entry file="file://$PROJECT_DIR$/Layouts/dist/website_2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.25" vertical-offset="4047" max-vertical-offset="4455">
-          <caret line="291" column="0" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+        <state vertical-scroll-proportion="-54.875" vertical-offset="2673" max-vertical-offset="4485">
+          <caret line="266" column="2" selection-start-line="266" selection-start-column="2" selection-end-line="266" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Layouts/website_3.html">
+    <entry file="file://$PROJECT_DIR$/Layouts/dist/new.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.3129773" vertical-offset="0" max-vertical-offset="1785">
-          <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="900">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layouts/dist/website_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5026455" vertical-offset="0" max-vertical-offset="1845">
+          <caret line="19" column="18" selection-start-line="16" selection-start-column="12" selection-end-line="19" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
   </component>
 </project>
-
