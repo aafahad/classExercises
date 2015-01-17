@@ -4,45 +4,49 @@ session_start();
 $_SESSION['msg']="Success: Output of your calculations";
 $msg = $_SESSION['msg'];
 
+
+
 $number1=$_POST['number1'];
 $number2=$_POST['number2'];
 $calculate=$_POST['calculate'];
 
 
 $value=calResult($number1, $number2, $calculate);
-//echo calResult($number1,$number2,$calculate);
+
+
 
 function calResult($number1,$number2,$calculate){
 
 
     if($calculate=="add")
     {
-        $compute=addCalculator($number1,$number2);
+        $compute=addCalc($number1,$number2);
     }
     if($calculate=="subtract")
     {
-        $compute=subtractCalculator($number1,$number2);
+        $compute=subtractCalc($number1,$number2);
     }
     if($calculate=="multiply")
     {
-        $compute=multiplyCalculator($number1,$number2);
+        $compute=multiplyCalc($number1,$number2);
     }
     if($calculate=="divide")
     {
-        $compute=divideCalculator($number1,$number2);
+        $compute=divideCalc($number1,$number2);
     }
 
     return $compute;
 }
 
 
-function addCalculator($number1,$number2){
+function addCalc($number1,$number2){
 
     $result=$number1+$number2;
     return $result;
 }
 
-function subtractCalculator($number1,$number2){
+
+function subtractCalc($number1,$number2){
 
     if($number1>$number2)
     {
@@ -55,14 +59,15 @@ function subtractCalculator($number1,$number2){
     }
 }
 
-function multiplyCalculator($number1,$number2){
+function multiplyCalc($number1,$number2){
 
     $result= $number1 * $number2;
     return $result;
 
 }
 
-function divideCalculator($number1,$number2){
+
+function divideCalc($number1,$number2){
 
     if($number2==0)
     {
@@ -74,7 +79,6 @@ function divideCalculator($number1,$number2){
         return $result;
     }
 }
-
 ?>
 
 
@@ -85,28 +89,41 @@ function divideCalculator($number1,$number2){
     <meta charset="UTF-8">
     <title></title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+
 </head>
 <body>
 
 <section class="container">
+
+
     <?php
     if(isset($value)) {
         ?>
+
+
 
         <div class="row">
             <div class="col-md-4 col-md-offset-4">
 
                 <div class="alert alert-danger" role="alert">
-                    <?php echo $msg;
+                    <?php
+                    echo $msg;
                     ?>
                 </div>
 
             </div>
 
         </div>
-    <?php } ?>
+
+
+    <?php
+    }
+    ?>
+
+
+
     <div class="row">
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-6 col-md-offset-3">
             <div class="panel panel-primary">
                 <form action="calculator.php" method="post" class="form-horizontal">
                     <p class="text-center"><legend><b>Calculator</b></legend></p>
@@ -115,6 +132,7 @@ function divideCalculator($number1,$number2){
                         <div class="col-sm-10">
                             <input type="number" name="number1" class="form-control" placeholder="">
                         </div>
+
                     </div>
                     <div class="form-group">
                         <label  class="col-sm-2 control-label">Enter Number2</label>
@@ -122,6 +140,9 @@ function divideCalculator($number1,$number2){
                             <input type="number" name="number2" class="form-control" placeholder="">
                         </div>
                     </div>
+
+
+
                     <div class="form-group">
                         <label  class="col-sm-2 control-label"></label>
                         <div class="col-sm-10">
@@ -139,15 +160,20 @@ function divideCalculator($number1,$number2){
                             </label>
                         </div>
                     </div>
+
+
+
                     <div class="form-group">
                         <div class="col-sm-offset-2 col-sm-10">
-                            <button type="submit" value="calculate" class="btn btn-default">Calculate</button>
+                            <button type="submit" value="calculate" class="btn btn-default" style="background-color:#00b3ee">Calculate</button>
                         </div>
                     </div>
                 </form>
             </div>
         </div>
     </div>
+
+
 
     <?php
     if(isset($value)) {
@@ -162,8 +188,12 @@ function divideCalculator($number1,$number2){
 
         </div>
     <?php
+
     }
-    session_unset();?>
+
+    session_unset();
+    ?>
+
 </section>
 
 
@@ -171,4 +201,3 @@ function divideCalculator($number1,$number2){
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 </body>
 </html>
-
